@@ -2,6 +2,7 @@
 #define PROPERTIES_H
 
 #include <vector>
+#include <string>
 
 namespace tsf
 {
